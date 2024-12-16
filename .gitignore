@@ -148,6 +148,14 @@ kitti_test/
 
 # IDE
 .vs
+.vscode/*
+.history/
+
 
 record/
 output/
+dataset*/
+cam_para/
+gmc/
+det_results/
+
